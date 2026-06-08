@@ -46,3 +46,11 @@ This project analyzes the Brazilian Olist e-commerce dataset to understand custo
 - Product category trends were explored.
 - Regional differences were evaluated.
 - Customer segmentation was performed using clustering techniques.
+
+## Project Screenshots
+
+Project visualizations, statistical analysis outputs, and machine learning charts are available in the Images folder.
+
+➡️ View Screenshots:
+
+[View All Visualizations](https://github.com/sengulozaydin/olist-ecommerce-analysis/tree/main/images)
